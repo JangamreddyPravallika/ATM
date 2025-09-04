@@ -53,16 +53,6 @@ Choose the Required Option(s):
 5. Pin Generation
 6. Exit
 
-🎯 Future Enhancements
-
-Add transaction history for each account
-
-Store account data in a database (MySQL/SQLite) instead of dictionary
-
-Add user authentication with OTP verification
-
-Create a GUI version using Tkinter or PyQt
-
 👨‍💻 Author
 
 Pravallika Jangamreddy
